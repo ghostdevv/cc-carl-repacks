@@ -126,6 +126,17 @@
 					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/pixelbox_lite.lua"
 				}
 			]
+		},
+		{
+			"name": "ccfetch",
+			"version": "0.1.0-repack.20240324112524",
+			"cli": "ccfetch.lua",
+			"files": [
+				{
+					"path": "ccfetch.lua",
+					"url": "https://raw.githubusercontent.com/Rainb0wSkeppy/ccfetch/2b76f4873100e1e5804fcf7549ff99487df7d554/ccfetch.lua"
+				}
+			]
 		}
 	]
 }

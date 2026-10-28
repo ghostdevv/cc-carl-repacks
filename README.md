@@ -14,3 +14,9 @@ https://github.com/hexelll/ComBox
 
 > [!NOTE]
 > Until lifecycle hooks are added or [ComBox adds a license](https://github.com/hexelll/ComBox/issues/7) you can only have one version of combox installed, and you must create a file called `/.combox_secrets` with the content `/.carl/packages/combox/`
+
+## ccfetch
+
+> A fetch script for ComputerCraft
+
+https://github.com/Rainb0wSkeppy/ccfetch
