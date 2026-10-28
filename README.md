@@ -26,3 +26,9 @@ https://github.com/Rainb0wSkeppy/ccfetch
 > Text formatter (tf) is a basic computer craft text formatting system used for creating inline coloured text.
 
 https://github.com/Mcrevs/cc-text-formatter
+
+## tcs (turtle-control-string)
+
+> CC:T A library to make manually controlling turtles easier, especially for repeated actions.
+
+https://github.com/Mcrevs/cc-turtle-control-string
