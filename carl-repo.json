@@ -143,7 +143,7 @@
 			"version": "0.1.0-repack.20240227214357",
 			"files": [
 				{
-					"path": "tf.lua",
+					"path": "init.lua",
 					"url": "https://raw.githubusercontent.com/Mcrevs/cc-text-formatter/4fa8aeb41282a2a3e3dd25317f73c32431a679ad/tf.lua"
 				}
 			]
@@ -153,7 +153,7 @@
 			"version": "0.1.0-repack.20240228154806",
 			"files": [
 				{
-					"path": "tcs.lua",
+					"path": "init.lua",
 					"url": "https://raw.githubusercontent.com/Mcrevs/cc-turtle-control-string/424d7f45f06465879dcf79fc3f41a1f72eddbe6c/tcs.lua"
 				}
 			]
