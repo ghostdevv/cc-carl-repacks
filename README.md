@@ -20,3 +20,9 @@ https://github.com/hexelll/ComBox
 > A fetch script for ComputerCraft
 
 https://github.com/Rainb0wSkeppy/ccfetch
+
+## tf (text-formatter)
+
+> Text formatter (tf) is a basic computer craft text formatting system used for creating inline coloured text.
+
+https://github.com/Mcrevs/cc-text-formatter
