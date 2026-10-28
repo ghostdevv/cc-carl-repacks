@@ -4,7 +4,6 @@
 		{
 			"name": "combox",
 			"version": "0.1.0-repack.20260718160149",
-			"cli": null,
 			"files": [
 				{
 					"path": "Color.lua",
@@ -25,10 +24,6 @@
 				{
 					"path": "Renderer.lua",
 					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/Renderer.lua"
-				},
-				{
-					"path": "benchmark.lua",
-					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/benchmark.lua"
 				},
 				{
 					"path": "combinators/ASCIICombinator.lua",
@@ -73,10 +68,6 @@
 				{
 					"path": "combinators/VerboseCombinator.lua",
 					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/combinators/VerboseCombinator.lua"
-				},
-				{
-					"path": "comboxInstaller.lua",
-					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/comboxInstaller.lua"
 				},
 				{
 					"path": "outsideLibs/deflate.lua",
