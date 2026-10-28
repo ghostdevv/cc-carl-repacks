@@ -1,5 +1,140 @@
 {
-	"$schema": "https://raw.githubusercontent.com/ghostdevv/cc-carl/main/packages/schema/json-schema/repository.json",
 	"name": "repacks",
-	"packages": []
+	"packages": [
+		{
+			"name": "combox",
+			"version": "0.1.0-repack.20260718160149",
+			"cli": null,
+			"files": [
+				{
+					"path": "Color.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/Color.lua"
+				},
+				{
+					"path": "ImageHandler.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/ImageHandler.lua"
+				},
+				{
+					"path": "MediaParser.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/MediaParser.lua"
+				},
+				{
+					"path": "Pipeline.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/Pipeline.lua"
+				},
+				{
+					"path": "Renderer.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/Renderer.lua"
+				},
+				{
+					"path": "benchmark.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/benchmark.lua"
+				},
+				{
+					"path": "combinators/ASCIICombinator.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/combinators/ASCIICombinator.lua"
+				},
+				{
+					"path": "combinators/CharCombinator.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/combinators/CharCombinator.lua"
+				},
+				{
+					"path": "combinators/FastCharCombinator.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/combinators/FastCharCombinator.lua"
+				},
+				{
+					"path": "combinators/FlowCombinator.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/combinators/FlowCombinator.lua"
+				},
+				{
+					"path": "combinators/MathCharCombinator.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/combinators/MathCharCombinator.lua"
+				},
+				{
+					"path": "combinators/PixelBoxCombinator.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/combinators/PixelBoxCombinator.lua"
+				},
+				{
+					"path": "combinators/RoughCharCombinator.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/combinators/RoughCharCombinator.lua"
+				},
+				{
+					"path": "combinators/SimpleCombinator.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/combinators/SimpleCombinator.lua"
+				},
+				{
+					"path": "combinators/SmoothCharCombinator.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/combinators/SmoothCharCombinator.lua"
+				},
+				{
+					"path": "combinators/SquarePixelCombinator.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/combinators/SquarePixelCombinator.lua"
+				},
+				{
+					"path": "combinators/VerboseCombinator.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/combinators/VerboseCombinator.lua"
+				},
+				{
+					"path": "comboxInstaller.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/comboxInstaller.lua"
+				},
+				{
+					"path": "outsideLibs/deflate.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/outsideLibs/deflate.lua"
+				},
+				{
+					"path": "outsideLibs/numberlua.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/outsideLibs/numberlua.lua"
+				},
+				{
+					"path": "outsideLibs/png.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/outsideLibs/png.lua"
+				},
+				{
+					"path": "outsideLibs/qoi.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/outsideLibs/qoi.lua"
+				},
+				{
+					"path": "pipelines/Display.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/pipelines/Display.lua"
+				},
+				{
+					"path": "pipes/display.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/pipes/display.lua"
+				},
+				{
+					"path": "pipes/dither.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/pipes/dither.lua"
+				},
+				{
+					"path": "pipes/entry.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/pipes/entry.lua"
+				},
+				{
+					"path": "pipes/image.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/pipes/image.lua"
+				},
+				{
+					"path": "pipes/invert.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/pipes/invert.lua"
+				},
+				{
+					"path": "pipes/maskEdge.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/pipes/maskEdge.lua"
+				},
+				{
+					"path": "pipes/palette.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/pipes/palette.lua"
+				},
+				{
+					"path": "pipes/render.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/pipes/render.lua"
+				},
+				{
+					"path": "pixelbox_lite.lua",
+					"url": "https://raw.githubusercontent.com/hexelll/ComBox/2592cefb701648ed74224693f5ca0654f4e0b8bf/pixelbox_lite.lua"
+				}
+			]
+		}
+	]
 }
